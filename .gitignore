@@ -1,0 +1,7 @@
+/.vscode
+/app.spec
+/build
+/dist
+/Pipfile.lock
+/qrcode-scanner.spec
+poetry.lock
